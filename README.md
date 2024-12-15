@@ -4,3 +4,13 @@ This repository contains implementations of two machine learning models for 5-le
 ### 1) Feed Forward Neural Network
 
 ### 2) Recurrent Neural Network
+
+
+
+
+
+
+
+GloVe: Global Vectors for Word Representation  
+Available at: https://nlp.stanford.edu/projects/glove/  
+Authors: Jeffrey Pennington, Richard Socher, and Christopher D. Manning
